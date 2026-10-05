@@ -162,6 +162,53 @@
       },
       "name": "model_1.glb",
       "order": 3.233987745872064
+    },
+    "4cc4b22e-ef8a-4e37-91a0-d3af0859283d": {
+      "id": "4cc4b22e-ef8a-4e37-91a0-d3af0859283d",
+      "position": [
+        0,
+        1.3191775829187535,
+        -1.2553225357261921
+      ],
+      "rotation": [
+        -0.088466343437301,
+        0,
+        0,
+        0.9960791665720318
+      ],
+      "scale": [
+        1,
+        1.000000053212482,
+        1.000000053212482
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Gatos_Chroma.mp4"
+        }
+      },
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {
+        "4f17d139-743d-4064-95b9-b6b5d5932bfd": {
+          "id": "4f17d139-743d-4064-95b9-b6b5d5932bfd",
+          "name": "Chroma Key",
+          "parameters": {
+            "keyRed": 117,
+            "keyGreen": 251,
+            "keyBlue": 76,
+            "tolerance": 0.25
+          }
+        }
+      },
+      "name": "Plano",
+      "order": 4.953769241035962
     }
   },
   "spaces": {
